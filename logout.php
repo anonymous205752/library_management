@@ -1,6 +1,6 @@
 <?php
 
-// LOGOUT
+// LOGOUT BRANCH
 
 session_start();
 session_unset(); // Unset all session variables
