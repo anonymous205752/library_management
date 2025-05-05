@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../library management"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../first oop"
+		},
+		{
+			"path": "../insert"
+		},
+		{
+			"path": "../intro"
+		},
+		{
+			"path": "../others"
+		},
+		{
+			"path": "../update"
+		}
+	],
+	"settings": {}
+}
